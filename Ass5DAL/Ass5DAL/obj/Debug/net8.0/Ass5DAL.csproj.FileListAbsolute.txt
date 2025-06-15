@@ -1,0 +1,14 @@
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\bin\Debug\net8.0\Ass5DAL.deps.json
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\bin\Debug\net8.0\Ass5DAL.runtimeconfig.json
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\bin\Debug\net8.0\Ass5DAL.dll
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\bin\Debug\net8.0\Ass5DAL.pdb
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\Ass5DAL.csproj.AssemblyReference.cache
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\Ass5DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\Ass5DAL.AssemblyInfoInputs.cache
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\Ass5DAL.AssemblyInfo.cs
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\Ass5DAL.csproj.CoreCompileInputs.cache
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\Ass5DAL.dll
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\refint\Ass5DAL.dll
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\Ass5DAL.pdb
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\Ass5DAL.genruntimeconfig.cache
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5DAL\Ass5DAL\obj\Debug\net8.0\ref\Ass5DAL.dll

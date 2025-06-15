@@ -1,0 +1,14 @@
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\bin\Debug\net8.0\Ass5BLL.deps.json
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\bin\Debug\net8.0\Ass5BLL.dll
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\bin\Debug\net8.0\Ass5BLL.pdb
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\bin\Debug\net8.0\Ass5DAL.dll
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\Ass5BLL.csproj.AssemblyReference.cache
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\Ass5BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\Ass5BLL.AssemblyInfoInputs.cache
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\Ass5BLL.AssemblyInfo.cs
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\Ass5BLL.csproj.CoreCompileInputs.cache
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\Ass5BLL.csproj.CopyComplete
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\Ass5BLL.dll
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\refint\Ass5BLL.dll
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\Ass5BLL.pdb
+D:\private\Me\freeWork\السويد\محمد السويد\C#\Assignment5\Ass5\Ass5BLL\Ass5BLL\obj\Debug\net8.0\ref\Ass5BLL.dll
